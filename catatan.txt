@@ -1,0 +1,23 @@
+Simulasi web :
+Web ini bertema media pembelajaran siswa SMK kelas XII
+1. Ada dua portal yaitu portal guru dan portal siswa
+2. Portal guru memiliki beberapa fitur yaitu guru dapat
+    mengupload materi dan penugasan untuk siswa.
+3. Portal siswa memiliki beberapa fitur yaitu siswa dapat
+    mengerjakan penugasan yang diberikan guru dan dapat
+    mendownload materi yang telah diberikan oleh guru.
+4. user admin belum bisa diakses.
+5. belum bisa menggunakan logout.
+
+Kali ini saya mensimulasikan portal siswa pada simulasi web ini 
+di mana siswa dapat mengerjakan quiz yang diberikan oleh guru.
+
+Pak maaf sebelumnya saya hanya mampu sampai tahap ini pak,
+ada script dari javascriptnya yang saya cari di github.com
+karena saya masih belum menguasai sepenuhnya.Maaf juga kalau
+ada beberapa kesalahan di program atau codingan saya.Saya mohon
+bantuan Pak Ari untuk membantu saya agar bisa memperbaiki kesalahan 
+tersebut. Sebelumnya saya ucapkan terima kasih...
+
+
+
